@@ -1,5 +1,3 @@
-Got it! Here's your portfolio with horizontally arranged icons for better visual clarity:
-
 ---
 
 # 👋 Hi, I'm Emmanuel Akanji  
@@ -59,5 +57,4 @@ _JavaScript, Matrix-based optimization_
 🌐 [LinkedIn](https://www.linkedin.com/in/emmanuelakanji/) | 💬 Open to collaborations, remote opportunities, and tech discussions  
 
 ---
-
-This version keeps the structure clean while making the icons more visually appealing. Let me know if you need further tweaks! 🚀  
+ 
