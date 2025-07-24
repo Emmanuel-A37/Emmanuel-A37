@@ -27,12 +27,12 @@ I'm passionate about crafting **robust, user-focused applications** and integrat
 ## 🚀 Featured Projects  
 
 ### **RecipeHaven** 🥘  
-A sleek recipe discovery platform with advanced search and pagination.  
-_React, Tailwind CSS, MealDB API_  
+A proction ready api health monitoring web application with real time dashboard updates with a custom npm package for easy connection.  
+_Next.js, Tailwind CSS, Prisma, Express, Docker, Socket IO_  
 
 ### **Investment Simulator** 📈  
 A real-time stock investment simulator with live market data and currency conversions.  
-_React, Alpha Vantage API, USD/NGN exchange, charting tools_  
+_Next.js,  charting tools_  
 
 ### **Simplex Algorithm Solver** 🔢  
 A JavaScript-powered implementation of the Simplex Method for linear programming.  
