@@ -26,7 +26,7 @@ I'm passionate about crafting **robust, user-focused applications** and integrat
 
 ## 🚀 Featured Projects  
 
-### **Sentinel** 🥘  
+### **Sentinel** 🛡️  
 A proction ready api health monitoring web application with real time dashboard updates with a custom npm package for easy connection.  
 _Next.js, Tailwind CSS, Prisma, Express, Docker, Socket IO_  
 
